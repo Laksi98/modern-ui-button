@@ -1,7 +1,9 @@
 {
   "name": "modern-ui-button",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "src/ModernButton.js",
+  "module": "src/ModernButton.jsx",
+  "type": "module",
   "files": [
     "src"
   ],
@@ -10,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Laksi98/modern-ui-button.git"
+    "url": "https://github.com/Laksi98/modern-ui-button.git"
   },
   "keywords": [
     "react",
