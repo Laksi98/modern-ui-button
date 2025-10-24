@@ -1,8 +1,8 @@
 {
   "name": "modern-ui-button",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "src/ModernButton.js",
-  "module": "src/ModernButton.jsx",
+  "module": "src/ModernButton.js",
   "type": "module",
   "files": [
     "src"
