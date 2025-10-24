@@ -1,0 +1,29 @@
+{
+  "name": "modern-ui-button",
+  "version": "1.0.1",
+  "main": "src/ModernButton.js",
+  "files": [
+    "src"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Laksi98/modern-ui-button.git"
+  },
+  "keywords": [
+    "react",
+    "button",
+    "ui",
+    "component",
+    "modern"
+  ],
+  "author": "laksi-sandeepani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Laksi98/modern-ui-button/issues"
+  },
+  "homepage": "https://github.com/Laksi98/modern-ui-button",
+  "description": "A lightweight and modern ui button component"
+}
